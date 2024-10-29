@@ -2,7 +2,7 @@
 
 ![vgg16](https://github.com/user-attachments/assets/296d25cf-66e8-44af-b6b8-83ab0be83ed2)
 
-**Keywords**: Hemarthrosis, Feature extraction, Cosine similarity, Image recognition, Medical Imaging, Machine learnin
+**Keywords**: Hemarthrosis, Feature extraction, Cosine similarity, Image recognition, Medical Imaging, Machine learning
 
 ## Introduction
 With the increase of computing power, machine learning models in medical imaging have been introduced to help in rending medical diagnosis and inspection, like hemophilia, a rare disorder in which blood cannot clot normally. Often, one of the bottlenecks of detecting hemophilia is the lack of data available to train the algorithm to increase the accuracy. As a possible solution, this research investigated whether introducing augmented data by data synthesis or traditional augmentation techniques can improve model accuracy, helping to diagnose the diseases. 
